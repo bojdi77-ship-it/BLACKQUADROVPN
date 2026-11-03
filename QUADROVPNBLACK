@@ -1,5 +1,142 @@
 #profile-title: [BLACK⚫] QUADRO VPN: Тариф BLACK
 #profile-update-interval: 12/24/48
 
-hy2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@194.55.239.220:443?sni=r-fi-1.dokomon.com&alpn=h3#Hysteria2-Proxy
+{
+    "log": {
+        "loglevel": "error"
+    },
+    "inbounds": [
+        {
+            "tag": "in-jpx1t6",
+            "port": 10808,
+            "listen": "127.0.0.1",
+            "protocol": "mixed",
+            "settings": {
+                "auth": "noauth",
+                "udp": true
+            },
+            "sniffing": {
+                "enabled": true,
+                "destOverride": [
+                    "http",
+                    "tls",
+                    "quic"
+                ],
+                "routeOnly": true
+            }
+        }
+    ],
+    "outbounds": [
+        {
+            "tag": "proxy",
+            "protocol": "hysteria",
+            "settings": {
+                "version": 2,
+                "address": "194.55.239.220",
+                "port": 443
+            },
+            "streamSettings": {
+                "network": "hysteria",
+                "security": "tls",
+                "hysteriaSettings": {
+                    "version": 2,
+                    "auth": "e15b2edd-8fdd-4f7d-939f-3b5a20c16c22"
+                },
+                "tlsSettings": {
+                    "serverName": "r-fi-1.dokomon.com",
+                    "alpn": [
+                        "h3"
+                    ]
+                },
+                "finalmask": {
+                    "quicParams": {
+                        "keepAlivePeriod": 10,
+                        "maxIdleTimeout": 15
+                    }
+                }
+            }
+        },
+        {
+            "tag": "direct",
+            "protocol": "freedom",
+            "settings": {
+                "ipsBlocked": []
+            },
+            "streamSettings": {
+                "sockopt": {
+                    "domainStrategy": "ForceIP"
+                }
+            }
+        },
+        {
+            "tag": "block",
+            "protocol": "blackhole",
+            "settings": {}
+        },
+        {
+            "tag": "dns-out",
+            "protocol": "dns"
+        }
+    ],
+    "routing": {
+        "domainStrategy": "AsIs",
+        "rules": [
+            {
+                "inboundTag": [
+                    "domestic_dns"
+                ],
+                "outboundTag": "direct",
+                "type": "field"
+            },
+            {
+                "inboundTag": [
+                    "wg_bootstrap_dns"
+                ],
+                "outboundTag": "direct",
+                "type": "field"
+            },
+            {
+                "inboundTag": [
+                    "dns"
+                ],
+                "outboundTag": "proxy",
+                "type": "field"
+            },
+            {
+                "port": "53",
+                "outboundTag": "dns-out",
+                "type": "field"
+            }
+        ]
+    },
+    "dns": {
+        "queryStrategy": "UseIP",
+        "tag": "dns",
+        "servers": [
+            "1.1.1.1",
+            "8.8.8.8"
+        ]
+    },
+    "policy": {
+        "levels": {
+            "8": {
+                "connIdle": 300,
+                "downlinkOnly": 4,
+                "handshake": 3,
+                "uplinkOnly": 2,
+                "bufferSize": 3,
+                "statsUserDownlink": false,
+                "statsUserUplink": false,
+                "statsUserOnline": false
+            }
+        },
+        "system": {
+            "statsInboundDownlink": true,
+            "statsInboundUplink": true,
+            "statsOutboundDownlink": true,
+            "statsOutboundUplink": true
+        }
+    },
+    "stats": {}
+}
 
