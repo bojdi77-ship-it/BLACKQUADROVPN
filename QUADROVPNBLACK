@@ -1,9 +1,7 @@
-#profile-title: [BLACK⚫] QUADRO VPN: Тариф BLACK
+#profile-title:QUADRO VPN: Тариф BLACK
 #profile-update-interval: 12/24/48
 
-hysteria2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@194.55.239.220:443/?sni=r-fi-1.dokomon.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20LTE
-
-hysteria2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@194.55.239.220:444/?sni=r-se-1.dokomon.com&alpn=h3#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20LTE%232
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.143:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=join.betust.net&fp=firefox&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&sid=351224a7&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20LTE
 
 
 
