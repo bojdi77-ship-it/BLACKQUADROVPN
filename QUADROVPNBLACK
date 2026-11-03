@@ -1,7 +1,12 @@
 #profile-title: [BLACK⚫] QUADRO VPN: Тариф BLACK
 #profile-update-interval: 12/24/48
 
-hy2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@194.55.239.220:443?sni=://dokomon.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20LTE%20Gemini
+hysteria2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@194.55.239.220:443/?sni=r-fi-1.dokomon.com&alpn=h3#%F0%9F%87%AB%F0%9F%87%AE%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20LTE
+
+hysteria2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@194.55.239.220:444/?sni=r-se-1.dokomon.com&alpn=h3#%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F%20LTE%232
+
+
+
 
 
 
