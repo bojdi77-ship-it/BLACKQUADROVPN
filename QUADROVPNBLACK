@@ -13,6 +13,18 @@ hy2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@185.22.234.28:443?sni=r-fi-1.dokomon.
 
 vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@81.163.22.143:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=join.betust.net&fp=firefox&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&sid=351224a7&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20LTE
 
+vless://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@185.86.145.40:5443?type=ws&security=tls&sni=k2.r-fi-1.dokomon.com&path=%2Fws%2F&host=r-fi-1.dokomon.com&fp=qq#🇫🇮Финляндия LTE Gemini 4 (VLESS)
+
+vless://2232d904-8e6a-4202-8240-6efd8aec02e9@apply.betust.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apply.betust.net&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&sid=b20168a5&spx=%2F#🇸🇪Швеция LTE#3 Gemini
+
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@apply.betust.net:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=apply.betust.net&fp=firefox&pbk=T98nmnCp0qrmkH1Oq92Tk94sCYa5RuuEjp8bDDbdVxk&sid=b20168a5&type=tcp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20LTE%234%20Gemini
+
+vless://fb37d713-0ed3-4146-b085-a5c879a9aafa@join.betust.net:443?type=tcp&security=reality&sni=join.betust.net&fp=firefox&pbk=GQul8Ak0VO_z4FW_m_R-xsQbwd2e1rWZO-XfMmKmpQE&sid=351224a7&spx=%2F&encryption=none&flow=xtls-rprx-vision#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20LTE%235
+
+vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMi0xMjkubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi0xMjkubWlycmEubm93IiwiaWQiOiIyNzY1M2IzNy02MDNjLTRjOTAtYjFmNS0yNWM0ZDIzZjg5MzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dwdS1zdHJlYW0vc29ja2V0IiwicGNuIjoiIiwicGNzIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6rQk9C10YDQvNCw0L3QuNGPIExURSIsInNjeSI6ImF1dG8iLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMi0xMjkubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+
+hy2://e15b2edd-8fdd-4f7d-939f-3b5a20c16c22@185.22.234.28:444?sni=r-se-1.dokomon.com&alpn=h3#🇵🇱Польша LTE
+
 
 
 
