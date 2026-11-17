@@ -21,6 +21,8 @@ vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?flow=xtls-rprx-v
 
 vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv51.0+BLACK%E2%9A%AB
 
+vless://96c760c3-6949-4a00-b603-16173b9b1a66@185.86.145.223:9449?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=tmuk1.trust.rumost.top&pbk=VB9m1gQWzJWBXa49PMVGKkI94KN0XRCpC1BSpQP7yzk&sid=0cc15b71a8a6a380#%F0%9F%87%AA%F0%9F%87%BALTEv51.1+BLACK%E2%9A%AB
+
 hysteria2://417b274c-5f3c-46e8-a17b-b309f90a9aa4@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&up=150&down=100#%F0%9F%87%AA%F0%9F%87%BAAUTO+HYSTERIA2
 
 vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@edge-01294.greatecloud.com:443?flow=xtls-rprx-vision&type=tcp&security=tls&fp=firefox&sni=es.greatecloud.com&alpn=h2,http/1.1#%F0%9F%87%AA%F0%9F%87%AAEstonia+FAST+BLACK%E2%9A%AB
