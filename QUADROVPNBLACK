@@ -1,39 +1,11 @@
 #profile-title:QUADRO VPN: Тариф BLACK
 #profile-update-interval: 6/12/24/48
 
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AA%F0%9F%87%BALTEv50.0+BLACK%E2%9A%AB
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@87.228.101.213:8443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=87.228.101.93&pbk=DwnMdViA2lrSS6oB2m6yRvByihvGUQW38KQr5hfQnAQ&sid=5b8df85b73d4c3ee&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%B3%F0%9F%87%B1LTEv55.0%20BLACK%E2%9A%AB
 
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@87.228.101.126:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6#%F0%9F%87%AA%F0%9F%87%BALTEv50.1+BLACK%E2%9A%AB
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@veight.kot-game.club:443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=ne-edge20.kot-game.club&alpn=h2%2C%20http%2F1.1&fp=firefox&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%B3%F0%9F%87%B1LTEv55.1%20BLACK%E2%9A%AB
 
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@87.228.101.126:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv50.3+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv50.4+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AA%F0%9F%87%BALTEv50.5+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AA%F0%9F%87%BALTEv50.6+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv50.7+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AA%F0%9F%87%BALTEv50.8+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6#%F0%9F%87%AA%F0%9F%87%BALTEv50.9+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv51.0+BLACK%E2%9A%AB
-
-vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@cloud.kot-game.club:7443?flow=xtls-rprx-vision&encryption=none&security=tls&sni=clne-edge.cloud.kot-game.club&alpn=h2%2C%20http%2F1.1&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%AA%F0%9F%87%AALTEv51.1%20BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?encryption=none&security=reality&sni=smartcaptcha.yandexcloud.net&fp=qq&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&type=xhttp&mode=auto&path=%2Fstatic#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%AB%F0%9F%87%AELTEv51.2%20BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv51.3+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=xhttp&security=reality&fp=qq&sni=smartcaptcha.yandexcloud.net&pbk=7EbUYtbV07niZdH0MRDrj7nEeJplaS1whdo13f2Yd0I&sid=c295fa9322fddc38&path=%2Fstatic&mode=auto#%F0%9F%87%AA%F0%9F%87%BALTEv51.4+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@87.228.101.126:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=max.ru&pbk=5RmtNRw_daWLasT6xff_1-UIFaGDQzXutXc1AuBe5yQ&sid=461c5419005d5ef6#%F0%9F%87%AA%F0%9F%87%BALTEv51.5+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-480b-a5a6-9b38e2e9810f@31.129.42.84:443?type=grpc&security=reality&fp=qq&sni=5post-gate.x5.ru&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&serviceName=api&mode=gun#%F0%9F%87%AA%F0%9F%87%BALTEv51.6+BLACK%E2%9A%AB
-
-vless://431732a8-67ee-0001-a5a6-9b38e2e9810f@31.129.42.84:443?encryption=none&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=xDF9_L0Mgyxf6e51shJKCBjNw33qXAqT3AQSHYheP20&type=grpc&mode=gun&authority=&serviceName=api#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%A9%F0%9F%87%AALTEv51.7%20BLACK%E2%9A%AB
+vless://09e4ccf4-c11b-40e2-931d-939f731dddd0@138.16.240.59:4443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=stupenischool.ru&fp=firefox&pbk=ByGOlI1k6SAe7qiQa349uSPyzeqEnPc7zOGBRp5GngY&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%87%B3%F0%9F%87%B1LTEv55.2%20BLACK%E2%9A%AB
 
 hysteria2://417b274c-5f3c-46e8-a17b-b309f90a9aa4@outh.yandex-cloud.org:54183?sni=outh.yandex-cloud.org&up=150&down=100#%F0%9F%87%AA%F0%9F%87%BAAUTO+HYSTERIA2
 
